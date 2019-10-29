@@ -1,0 +1,7 @@
+#
+# fips-par
+#
+---
+exports:
+    header-dirs: 
+      - par
